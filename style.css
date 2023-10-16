@@ -280,7 +280,7 @@ footer{
 
 .line {
     width: 1px;
-    height: 250px;
+    height: 125px;
     background-color: black;
 }
 
@@ -307,7 +307,7 @@ footer{
 
 
     50% {
-        transform: translateY(-500%);
+        transform: translateY(-250%);
     }
 
     100% {
