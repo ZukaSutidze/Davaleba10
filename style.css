@@ -299,13 +299,6 @@ footer{
     background-color: white;
 
 }
-
-
-
-
-    
-
-
 @keyframes ball {
     0% {
         transform: translateX(0);
